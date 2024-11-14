@@ -1,0 +1,61 @@
+amumu 2 cmtd 2 3 gs 2 3 1
+powder 3 gd 3 3 tc 2 3 pk 2 2 1
+darius 2 cp 2 3 gs 2 3 1
+draven 2 cp 2 3 vsls 2 3 1
+steb 2 cb 2 3 ds 2 3 1
+irelia 2 nl 3 4 vb 2 3 1
+lux 2 hv 3 3 pt 2 3 1
+morgana 2 hhd 3 3 tt 2 3 1
+violet 2 gd 3 3 vsls 2 3 1
+Maddie 2 cb 2 3 bt 2 3 1 
+singed 2 hc 3 3 vb 2 3 1
+trundle 2 tc 2 3 ds 2 3 1
+vex 2 nl 3 4 tt 2 3 1
+zyra 2 tn 3 4 pt 2 3 1
+akali 2 nl 3 4 ct 2 2 2
+Camille 2 cb 2 3 pk 2 2 2
+Leona 2 hv 3 3 vb 2 3 2
+nocturne 2 cmtd 2 3 ct 2 2 2
+vander 2 gd 3 3 gs 2 3 2
+rell 3 cp 2 3 vb 2 3 tt 2 3 2
+renata 2 hc 3 3 tt 2 3 2
+sett 2 nl 3 4 ds 2 3 2
+tristana 2 sg 1 1 pb 2 3 2
+urgot 3 tn 3 4 vsls 2 3 pb 2 3 2
+Vladimir 3 hhd 3 3 gs 2 3 pt 2 3 2
+zeri 2 al 2 2 bt 2 3 2
+zigg 2 tc 2 3 ttr 2 3 2
+loris 2 cb 2 3 vb 2 3 3
+blizrank 2 cmtd 2 3 ttr 2 3 3
+cassiopia 2 hhd 3 3 ttr 2 3 3
+renni 2 hc 3 3 ds 2 3 3
+ezreal 3 hv 3 3 nl 3 4 pb 2 3 3
+scar 2 al 2 2 gs 2 3 3
+gangplank 3 tc 2 3 sh 2 3 vsls 2 3 3
+smeech 2 hc 3 3 pk 2 2 3
+kogmaw 2 cmtd 2 3 bt 2 3 3
+nami 2 sg 1 1 pt 2 3 3
+nunu 3 tn 3 4 ds 2 3 tt 2 3 3
+swain 3 cp 2 3 sh 2 3 pt 2 3 3
+tf 2 cb 2 3 ct 2 2 3
+ambessa 3 sg 1 1 cp 2 3 ct 2 2 4
+corki 2 tc 2 3 pb 2 3 4
+drmundo 2 tn 3 4 ttr 2 3 4
+ekko 3 al 2 2 tc 2 3 pk 2 2 4
+elise 3 hhd 3 3 sh 2 3 ds 2 3 4
+garen 2 sg 1 1 gs 2 3 4
+hemerdinger 2 hv 3 3 tt 2 3 4
+illaoi 2 nl 3 4 vb 2 3 4
+silco 2 hc 3 3 ttr 2 3 4
+twitch 2 tn 3 4 bt 2 3 4
+vi 2 cb 2 3 vsls 2 3 4
+zoe 2 nl 3 4 pt 2 3 4
+Caitlyn 2 cb 2 3 bt 2 3 5
+jayce 2 hv 3 3 sh 2 3 5
+jinx 2 nl 3 4 pk 2 2 5
+leblanc 2 hhd 3 3 pt 2 3 5
+sevika 2 hc 3 3 vsls 2 3 5
+malzahar 2 cmtd 2 3 tt 2 3 5
+morderkaiser 2 cp 2 3 ttr 2 3 5
+rumble 2 tc 2 3 vb 2 3 5
+#
